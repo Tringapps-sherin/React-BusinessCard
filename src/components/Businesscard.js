@@ -12,7 +12,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GitHubIcon from '@mui/icons-material/GitHub';
-export default function BusinessCardMUI() {
+export default function BusinessCard() {
   return (
     <>
       <Card sx={{ maxWidth: 370 }}>
